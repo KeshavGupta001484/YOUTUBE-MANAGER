@@ -106,10 +106,4 @@ Returning to main menu...
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request. Let’s make this tool even better together.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-Organize your YouTube video collection effortlessly with
+Organize your YouTube video collection effortlessly with the YouTube Video Manager! 🎥
